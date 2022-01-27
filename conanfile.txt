@@ -11,7 +11,7 @@ spdlog/1.9.2
 [generators]
 cmake_find_package
 cmake
+cmake_multi
 gcc
 txt
 visual_studio
-cmake_multi
