@@ -14,3 +14,4 @@ cmake
 gcc
 txt
 visual_studio
+cmake_multi
